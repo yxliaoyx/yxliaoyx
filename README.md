@@ -28,8 +28,8 @@
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="55" height="55"/> </a>
 
-![My langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=yxliaoyx)
+![My langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=yxliaoyx&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=yxliaoyx)
+![My stats](https://github-readme-stats.vercel.app/api?username=yxliaoyx&show=reviews,discussions_started,discussions_answered&show_icons=true)
 
 ![My streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yxliaoyx)
