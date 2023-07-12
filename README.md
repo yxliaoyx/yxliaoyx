@@ -32,4 +32,4 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=yxliaoyx&show=reviews,discussions_started,discussions_answered&show_icons=true)
 
-![My streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yxliaoyx)
+![My streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yxliaoyx&mode=weekly)
