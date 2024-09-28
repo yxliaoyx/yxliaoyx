@@ -1,5 +1,3 @@
-![My profile view](https://komarev.com/ghpvc/?username=yxliaoyx)
-
 ![My profile trophy](https://github-profile-trophy.vercel.app/?username=yxliaoyx&column=-1)
 
 ### Languages and Tools:
@@ -30,6 +28,6 @@
 
 ![My langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=yxliaoyx&langs_count=20&exclude_repo=Reinforcement-learning-with-virtual-simulation)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=yxliaoyx&show=reviews,discussions_started,discussions_answered&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=yxliaoyx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
-![My streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yxliaoyx&mode=weekly)
+![My streak stats](https://streak-stats.demolab.com/?user=yxliaoyx&mode=weekly)
